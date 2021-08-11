@@ -98,7 +98,7 @@ const char *page_html = "\
     时区（北京时间：8）:\r\n\
     <input type='text' name='timezone' value='8'><br><br>\r\n\
     <input type='submit' value='提交'>\r\n\
-    <p>注意：配置成功后可能还要等个十几分钟屏幕才可显示时间 <a href="https://www.weizixiang.com/Internet-Clock/help2.html">了解更多</a></p>
+    <p>注意：配置成功后可能还要等个十几分钟屏幕才可显示时间 <a href="https://www.weizixiang.com/Internet-Clock/help2.html">了解更多</a></p>\r\n\
     <p>因为ESP8266硬件性能较低，故本页不使用视觉UI，仅加载基础的HTML框架，页面较丑，敬请谅解！</p>\r\n\
     <br><br>\r\n\
     <a href="https://www.weizixiang.com/Internet-Clock/help.html">帮助页面</a> | <a href='https://www.weizixiang.com'>子翔的小站</a>\r\n\
